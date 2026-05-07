@@ -13,7 +13,7 @@
 
 ## 🧠 SKILLS
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js" />
 </p>
 
 ---
@@ -22,20 +22,6 @@
 - 🚀 Hackathon Participant  
 - 🌱 Learning Open Source  
 - 🎯 Building real-world projects  
-
----
-
-## 📊 GITHUB STATS
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tarani-Tannie02&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 STREAK
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Tarani-Tannie02&theme=tokyonight" />
-</p>
 
 ---
 
