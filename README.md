@@ -1,6 +1,6 @@
 <h1 align="center">✨ TARANI LAKSHMI ✨</h1>
 <p align="center">
-🎮 UI/UX Designer | 🎨 Creative Developer | 🤖 AI Explorer
+🎮 ML Engineer | 🎨 Creative Developer | 🤖 AI Explorer
 </p>
 
 ---
@@ -8,14 +8,12 @@
 ## 🚀 ABOUT ME
 - 🎓 Information Science Engineering Student  
 - 🎮 Love building fun + interactive experiences  
-- 🎨 Into UI/UX, editing & creative design  
-- ⚡ Goal: Become highly skilled & build impactful tech  
 
 ---
 
 ## 🧠 SKILLS
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,figma,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,python,,html,css,js" />
 </p>
 
 ---
@@ -42,5 +40,5 @@
 ---
 
 ## 🌐 CONNECT WITH ME
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (your email)
+- 💼 LinkedIn: https://www.linkedin.com/in/taranilakshmi
+- 📧 Email: taranim0702@gmail.com
