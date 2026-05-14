@@ -28,6 +28,16 @@ I enjoy building small ML systems, experimenting with frontend ideas.✨
 `🧠 Machine Learning` &nbsp; `🖼️ Computer Vision` &nbsp; `🔬 Deep Learning` &nbsp; `🚁 AI`
 
 ---
+## experience
+
+### Samsung Innovation Campus — AIML Trainee  
+*2025 – Present*  
+
+- Currently learning applied machine learning concepts including model building and evaluation  
+- Exploring deep learning and computer vision through hands-on practice  
+- Building foundational skills using Python, TensorFlow and Scikit-learn
+
+---
 
 ## 🛠️ tech stack
 
