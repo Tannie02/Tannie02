@@ -1,42 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" />
+<p align="center">
+  <img src="github-header-banner.png" width="100%" />
+</p>
 
 # ✦ M TARANI LAKSHMI ✦
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF00C0&center=true&vCenter=true&width=500&lines=ML+Engineer+%F0%9F%A4%96;AI+Explorer+%E2%9A%97%EF%B8%8F;Robotics+Co-Lead+%F0%9F%9A%81;Technical+Writer+%E2%9C%8D%EF%B8%8F;Turning+Coffee+into+Commits+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF00C0&center=true&vCenter=true&width=500&lines=debugging+life+one+model+at+a+time+%F0%9F%A4%96;AI+Explorer+%E2%9A%97%EF%B8%8F;Latte+with+Logic+%F0%9F%9A%80;Turning+Coffee+into+Commits+%E2%98%95)](https://git.io/typing-svg)
 
-![](https://img.shields.io/badge/⚗️_ML_Engineer-FF00C0?style=flat-square&labelColor=6000A0)
-![](https://img.shields.io/badge/🤖_AI_Explorer-FF84E0?style=flat-square&labelColor=6000A0)
-![](https://img.shields.io/badge/🚁_Robotics_Co--Lead-4000C0?style=flat-square&labelColor=6000A0)
+![](https://img.shields.io/badge/⚗️_ML_Engineer-FF5E89?style=flat-square&labelColor=FFB6CA)
+![](https://img.shields.io/badge/🤖_AI_Explorer-FF84E0?style=flat-square&labelColor=FF1493)
+![](https://img.shields.io/badge/🚁_Robotics-4000C0?style=flat-square&labelColor=6000A0)
 
-
-📍 Bangalore, India &nbsp;·&nbsp; B.E Information Science &nbsp;·&nbsp; 2023–2027
 
 </div>
 
 ---
 
-## 🌸 intro
+## 🌸 Intro
 
-Hey there! 👋 I'm **Tarani** — a CS student who gets way too excited about teaching machines to think. I build ML projects, train neural networks, and occasionally learn how to fly drones in the right direction.
+Hey! I'm Tarani — an Information Science student exploring machine learning, computer vision and creative tech projects.
 
-Currently levelling up at **Samsung's AIML program** while co-leading the **Drones & Robotics Club AdAstraCIT**.✨
+I enjoy building small ML systems, experimenting with frontend ideas.✨
 
 **Things I nerd out about:**
 
-`🧠 Machine Learning` &nbsp; `🖼️ Computer Vision` &nbsp; `🔬 Deep Learning` &nbsp; `🚁 Robotics` &nbsp;`
-
----
-
-## 📖 currently learning
-
-| &nbsp; | what | where |
-|--------|------|--------|
-| 🤖 | Applied ML — model building, evaluation & deployment | Samsung Innovation Campus |
-| 🖼️ | Computer Vision — transfer learning & real-time inference | Self-driven + projects |
-| 🚁 | Drone & Robotics | AdAstraCIT Robotics Club |
-
+`🧠 Machine Learning` &nbsp; `🖼️ Computer Vision` &nbsp; `🔬 Deep Learning` &nbsp; `🚁 AI`
 
 ---
 
@@ -44,10 +33,13 @@ Currently levelling up at **Samsung's AIML program** while co-leading the **Dron
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-6000A0?style=flat-square&logo=python&logoColor=FF84E0)
-![Java](https://img.shields.io/badge/Java-6000A0?style=flat-square&logo=openjdk&logoColor=FF84E0)
+<p align="left">
+  <p align="left">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" height="65" />
+</p>
 
-**ML / Data**
+**ML /**
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-4000C0?style=flat-square&logo=scikit-learn&logoColor=FF84E0)
 ![Pandas](https://img.shields.io/badge/Pandas-4000C0?style=flat-square&logo=pandas&logoColor=FF84E0)
@@ -56,28 +48,16 @@ Currently levelling up at **Samsung's AIML program** while co-leading the **Dron
 
 **Frameworks & Tools**
 
-![GitHub](https://img.shields.io/badge/GitHub-FF84E0?style=flat-square&logo=github&logoColor=6000A0)
-![Jupyter](https://img.shields.io/badge/Jupyter-FF84E0?style=flat-square&logo=jupyter&logoColor=6000A0)
-![VS Code](https://img.shields.io/badge/VS_Code-FF84E0?style=flat-square&logo=visualstudiocode&logoColor=6000A0)
-![Google Colab](https://img.shields.io/badge/Google_Colab-FF84E0?style=flat-square&logo=googlecolab&logoColor=6000A0)
+<p align="left">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="65" height="65" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" />
+  <img src="download.gif" width="65" height="65" />
+</p>
 
 ---
-
-## 🔮 projects
-
-**🎵 Music Genre Grouping via Audio Features**
-> ML pipeline using **MFCCs, chroma & spectral features** for genre classification. Compared K-Means, DBSCAN & supervised classifiers — PCA-powered dimensionality reduction for clean, meaningful genre separation across large audio libraries.
-
-`Scikit-learn` `K-Means` `DBSCAN` `PCA` `Audio ML`
-
----
-
-**🌿 Hydroponic Plant Disease Detector**
-> CNN-based deep learning system to **detect & classify diseases** in hydroponic crops. Real-time inference pipeline with image augmentation for early intervention — minimising crop loss in controlled farming environments.
-
-`CNN` `Computer Vision` `Deep Learning` `Image Augmentation`
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tannie02/Tarani-Tannie02/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ## 💌 contact
 
@@ -85,12 +65,9 @@ Currently levelling up at **Samsung's AIML program** while co-leading the **Dron
 
 [![Email](https://img.shields.io/badge/💌_taranim0702@gmail.com-6000A0?style=for-the-badge)](mailto:taranim0702@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-4000C0?style=for-the-badge)](https://www.linkedin.com/in/taranilakshmi)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-FF00C0?style=for-the-badge)](https://github.com/Tannie02)
 
 <br>
 
 *Open to collabs, internships, and anyone who wants to talk ML over coffee ☕*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" />
 
 </div>
