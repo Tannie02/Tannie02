@@ -56,7 +56,7 @@ I enjoy building small ML systems, experimenting with frontend ideas.✨
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tannie02/Tarani-Tannie02/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Tannie02/Tarani-Tannie02/refs/heads/output/github-contribution-grid-snake-dark.svg?token=GHSAT0AAAAAAD27NCWXTYDGC4MISWFJ42H62QFN4LA" alt="snake animation" />
 </p>
 
 ## 💌 contact
