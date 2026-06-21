@@ -19,7 +19,9 @@
 
 ## 🌸 Intro
 
-Hey! I'm Tarani — an Information Science student exploring machine learning, computer vision and creative tech projects.
+Hey! I'm Tarani 
+
+An Information Science student exploring machine learning, computer vision and creative tech projects.
 
 I enjoy building small ML systems, experimenting with frontend ideas.✨
 
