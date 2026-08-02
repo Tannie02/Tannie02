@@ -78,6 +78,9 @@ I enjoy building small ML systems, experimenting with frontend ideas.✨
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-4000C0?style=for-the-badge)](https://www.linkedin.com/in/taranilakshmi)
 
 <br>
+<p align="centre">
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100" height="100">
+</p>
 
 *Open to collabs, internships, and anyone who wants to talk ML over coffee ☕*
 
