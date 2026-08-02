@@ -67,7 +67,7 @@ I enjoy building small ML systems, experimenting with frontend ideas.✨
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="65" height="65" />
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" />
   <img src="download.gif" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70" height="65">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="90" height="65">
 </p>
 
 ## 💌 contact
