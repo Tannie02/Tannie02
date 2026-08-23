@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## 🌸 Intro
 
 Hey! I'm Tarani 
@@ -29,47 +27,25 @@ I enjoy building small ML systems, experimenting with frontend ideas.✨
 
 `🧠 Machine Learning` &nbsp; `🖼️ Computer Vision` &nbsp; `🔬 Deep Learning` &nbsp; `🚁 AI`
 
----
-## Experience
-
-### Samsung Innovation Campus — AIML Trainee  
-*2025 – Present*  
-
-- Currently learning applied machine learning concepts including model building and evaluation  
-- Exploring deep learning and computer vision through hands-on practice  
-- Building foundational skills using Python, TensorFlow and Scikit-learn
-
----
-
 ## 🛠️ tech stack
 
 **Languages**
 
-<p align="left">
-  <p align="left">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="65" height="65"/>
-  <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="65" height="65"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="65" height="65"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65"/>
-</p>
+  <p align="center">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" height="65" />
+    <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="65" height="65"/>
+    <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="65" height="65"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="65" height="65"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65"/>
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="65" height="65" />
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" />
+    <img src="download.gif" width="65" height="65" />
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="90" height="65">
+  </p>
 
-**ML /**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-4000C0?style=flat-square&logo=scikit-learn&logoColor=FF84E0)
-![Pandas](https://img.shields.io/badge/Pandas-4000C0?style=flat-square&logo=pandas&logoColor=FF84E0)
-![NumPy](https://img.shields.io/badge/NumPy-4000C0?style=flat-square&logo=numpy&logoColor=FF84E0)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-4000C0?style=flat-square&logo=tensorflow&logoColor=FF84E0)
 
-**Frameworks & Tools**
-
-<p align="left">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" />
-  <img src="download.gif" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="90" height="65">
-</p>
 
 ## 💌 contact
 
