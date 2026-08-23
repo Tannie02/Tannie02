@@ -121,8 +121,7 @@ Transform your learning points into memorable mnemonic sentences. MindLink prese
 </table>
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tannie02&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B86CFF&icon_color=D78BFF&text_color=F0F0F0)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tannie02&theme=dark&hide_border=true&background=0D1117&ring=B86CFF&fire=D78BFF&currStreakLabel=B86CFF&sideLabels=F0F0F0&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tannie02&background=0D1117&ring=C08497&fire=D6A0B0&currStreakLabel=C08497&sideLabels=E8E1E3&dates=8B7E83&currStreakNum=E8E1E3&sideNums=E8E1E3&hide_border=true)](https://git.io/streak-stats)
 
 ## Contact
 
