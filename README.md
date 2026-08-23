@@ -9,10 +9,12 @@
 </div>
 <div align="center">
 <p>Hey! I'm Tarani</p>
-<p></p>Exploring the intersection of AI, technology, and creativity.I enjoy building applications, experimenting with computer vision and machine learning ✦</p>
+<p></p>Exploring the intersection of AI, technology, and creativity.</p>
+<p>I enjoy building applications, experimenting with computer vision and machine learning ✦</p>
 </div>
-
+<div align="center">
 `🧠 Machine Learning` &nbsp; `🖼️ Computer Vision` &nbsp; `🔬 Deep Learning` &nbsp; `🚁 AI`
+</div>
 
 ## Featured Projects
 
@@ -115,10 +117,10 @@ Transform your learning points into memorable mnemonic sentences. MindLink prese
 </table>
 </div>
 
-## 💌 contact
+## contact
 
 <div align="center">
-
+  
 [![Email](https://img.shields.io/badge/💌_taranim0702@gmail.com-6000A0?style=for-the-badge)](mailto:taranim0702@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-4000C0?style=for-the-badge)](https://www.linkedin.com/in/taranilakshmi)
 
@@ -126,6 +128,5 @@ Transform your learning points into memorable mnemonic sentences. MindLink prese
 <p align="centre">
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100" height="100">
 </p>
-
 *Open to collabs, internships, and anyone who wants to talk ML over coffee ☕*
 </div>
