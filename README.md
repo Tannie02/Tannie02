@@ -1,49 +1,117 @@
 <div align="center">
-
 <p align="center">
   <img src="github-banner.png" width="100%" />
 </p>
-
 # ✦ M TARANI LAKSHMI ✦
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD6FAE&width=435&lines=debugging+life+one+model+at+a+time;learning+how+machines+learn;turning+random+ideas+into+projects;building+little+experiments+%E2%9C%A6;code+%E2%80%A2+create+%E2%80%A2+experiment+%E2%80%A2+repeat)](https://git.io/typing-svg)
-
-![](https://img.shields.io/badge/⚗️_ML_Engineer-FF5E89?style=flat-square&labelColor=FFB6CA)
-![](https://img.shields.io/badge/🤖_AI_Explorer-FF84E0?style=flat-square&labelColor=FF1493)
-![](https://img.shields.io/badge/🚁_Robotics-4000C0?style=flat-square&labelColor=6000A0)
-
-
 </div>
-
-## 🌸 Intro
-
-Hey! I'm Tarani 
-
-An Information Science student exploring machine learning, computer vision and creative tech projects.
-
-I enjoy building small ML systems, experimenting with frontend ideas.✨
-
-**Things I nerd out about:**
+<div align="center">
+<p>Hey! I'm Tarani</p>
+<p></p>Exploring the intersection of AI, technology, and creativity.I enjoy building applications, experimenting with computer vision and machine learning ✦</p>
+</div>
 
 `🧠 Machine Learning` &nbsp; `🖼️ Computer Vision` &nbsp; `🔬 Deep Learning` &nbsp; `🚁 AI`
 
-## 🛠️ tech stack
+## Featured Projects
 
-**Languages**
+<table>
+<tr>
+<td width="50%">
 
-  <p align="center">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" />
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="65" height="65" />
-    <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="65" height="65"/>
-    <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="65" height="65"/>
-    <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="65" height="65"/>
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65"/>
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="65" height="65" />
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="65" height="65" />
-    <img src="download.gif" width="65" height="65" />
-    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="90" height="65">
-  </p>
+### Atelier
+**Personal AI Stylist**
 
+A consumer-grade luxury fashion styling platform powered by Computer Vision, Deep Learning, and Real-Time Weather Adaptation.
+
+**Key Features:**
+- CLIP Zero-Shot Classification
+- K-Means Dominant Color Clustering
+- 512-Dimensional Visual Style DNA
+
+**Tech Stack:** FastAPI,Uvicorn,SQLite,Python,Docker
+
+</td>
+<td width="50%">
+
+### MindLink
+**Mnemonic Generator**
+
+Transform your learning points into memorable mnemonic sentences. MindLink preserves initial letters in order, maps them to your content, and ranks results for memorability.
+
+**Impact:**
+- Fast, offline, reliable.
+- Uses constraint-based logic to guarantee initial-letter accuracy.
+- Improved efficiency for students.
+
+**Tech Stack:** Python + ML libraries
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Frontend Development
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</tr>
+</table>
+
+### Backend Development
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+</tr>
+</table>
+
+### Database & DevOps
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+</tr>
+</table>
+</div>
 
 ## 💌 contact
 
@@ -58,5 +126,4 @@ I enjoy building small ML systems, experimenting with frontend ideas.✨
 </p>
 
 *Open to collabs, internships, and anyone who wants to talk ML over coffee ☕*
-
 </div>
