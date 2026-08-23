@@ -6,7 +6,7 @@
 
 # ✦ M TARANI LAKSHMI ✦
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF00C0&center=true&vCenter=true&width=500&lines=debugging+life+one+model+at+a+time+%F0%9F%A4%96;AI+Explorer+%E2%9A%97%EF%B8%8F;Latte+with+Logic+%F0%9F%9A%80;Turning+Coffee+into+Commits+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD6FAE&width=435&lines=debugging+life+one+model+at+a+time;learning+how+machines+learn;turning+random+ideas+into+projects;building+little+experiments+%E2%9C%A6;code+%E2%80%A2+create+%E2%80%A2+experiment+%E2%80%A2+repeat)](https://git.io/typing-svg)
 
 ![](https://img.shields.io/badge/⚗️_ML_Engineer-FF5E89?style=flat-square&labelColor=FFB6CA)
 ![](https://img.shields.io/badge/🤖_AI_Explorer-FF84E0?style=flat-square&labelColor=FF1493)
