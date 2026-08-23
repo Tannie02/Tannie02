@@ -3,7 +3,9 @@
   <img src="github-banner.png" width="100%" />
 </p>
 # ✦ M TARANI LAKSHMI ✦
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD6FAE&width=435&lines=debugging+life+one+model+at+a+time;learning+how+machines+learn;turning+random+ideas+into+projects;building+little+experiments+%E2%9C%A6;code+%E2%80%A2+create+%E2%80%A2+experiment+%E2%80%A2+repeat)](https://git.io/typing-svg)
+
 </div>
 <div align="center">
 <p>Hey! I'm Tarani</p>
