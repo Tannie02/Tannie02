@@ -45,7 +45,7 @@ I enjoy building small ML systems, experimenting with frontend ideas.✨
   </p>
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tannie02&theme=dark)](https://git.io/streak-stats)
 
 ## 💌 contact
 
