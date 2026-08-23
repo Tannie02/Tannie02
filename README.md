@@ -121,7 +121,9 @@ Transform your learning points into memorable mnemonic sentences. MindLink prese
 </table>
 </div>
 
-## contact
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tannie02&theme=highcontrast&hide_border=true&border_radius=5.5&short_numbers=true)](https://git.io/streak-stats)
+
+## Contact
 
 <div align="center">
   
