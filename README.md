@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="github-header-banner.png" width="100%" />
+  <img src="github-banner.png" width="100%" />
 </p>
 
 # ✦ M TARANI LAKSHMI ✦
