@@ -125,7 +125,9 @@ Transform your learning points into memorable mnemonic sentences. MindLink prese
   
 ![](https://github-readme-stats.shion.dev/api?username=Tannie02&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-<a href="https://streak-stats.demolab.com/?user=Tannie02&theme=material-palenight&hide_border=true"> </a> <br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tannie02&theme=material-palenight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+</p>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tannie02&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
