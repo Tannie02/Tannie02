@@ -124,10 +124,13 @@ Transform your learning points into memorable mnemonic sentences. MindLink prese
 <div align="center">
   
 ![](https://github-readme-stats.shion.dev/api?username=Tannie02&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://streak-stats.demolab.com/?user=Tannie02&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tannie02&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tannie02&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 </div>
+
 ## Contact
 
 <div align="center">
